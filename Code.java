@@ -22,7 +22,7 @@ public class practice {
 				  System.out.print("C: Please try more next time!");
         }
         else if (x <= 69.99 ) {
-				  System.out.print("“F: Unfortunately you failed!");			
+				  System.out.print("â€œF: Unfortunately you failed!");			
 		}
         else {
 			  System.out.print("You dont have a grade");			
@@ -34,7 +34,7 @@ public class practice {
 
 
 
-//If the final average grade is more than 90.00 and less than 100 it prints “A: Fantastic job!”
-//If it is between 80 to 89.99, it prints: “B: Good!”
-//If it is between 70 to 79.99, it prints “C: Please try more next time!”
-//If it is 69.99 or less, it prints “F: Unfortunately you failed!
+//If the final average grade is more than 90.00 and less than 100 it prints â€œA: Fantastic job!â€
+//If it is between 80 to 89.99, it prints: â€œB: Good!â€
+//If it is between 70 to 79.99, it prints â€œC: Please try more next time!â€
+//If it is 69.99 or less, it prints â€œF: Unfortunately you failed!
